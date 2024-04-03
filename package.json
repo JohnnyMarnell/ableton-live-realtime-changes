@@ -1,0 +1,38 @@
+{
+  "name": "ableton-live-realtime-changes",
+  "version": "0.0.42",
+  "description": "Ableton - Realtime Changes Hack - Live Live Diff (...live)",
+  "main": "index.mts",
+  "repository": "https://github.com/JohnnyMarnell/ableton-live-realtime-changes",
+  "author": "Johnny Marnell https://github.com/JohnnyMarnell",
+  "license": "MIT",
+  "homepage": "https://johnnymarnell.github.io/",
+  "scripts": {
+    "start": "tsx index.mts"
+  },
+  "keywords": [
+    "ableton",
+    "live",
+    "realtime",
+    "changes",
+    "hack",
+    "diff",
+    "updates",
+    "als",
+    "XML",
+    "DAW",
+    "fs",
+    "watch",
+    "chokidar"
+  ],
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.2",
+    "@types/node": "^20.12.2",
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "fs": "^0.0.1-security"
+  }
+}

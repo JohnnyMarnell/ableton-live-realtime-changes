@@ -1,5 +1,9 @@
 # Ableton Live - Live live changes (...live)
 
+[![Demo](https://img.youtube.com/vi/mulwc2U11o8/maxresdefault.jpg)](https://www.youtube.com/watch?v=mulwc2U11o8)
+
+[Demo Vid](https://www.youtube.com/watch?v=mulwc2U11o8)
+
 _"f*ck it we'll do Live live"_
 
 Pretty pleased with how this quick hack turned out! Already allowing me to experiment

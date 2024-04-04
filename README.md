@@ -1,4 +1,4 @@
-# Ableton Live - Live Live Changes (...live)
+# Ableton Live - Live live changes (...live)
 
 _"f*ck it we'll do Live live"_
 
